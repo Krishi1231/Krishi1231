@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Krishi1231
-- 👀 I’m interested in Photography And Riding
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Modded Apps 
+- 👀 I’m interested in Photography 
+- 🌱 I’m currently learning C++ and Python and ROS
 - 📫 How to reach me Mail me on krishichheda4u@gmail.com
